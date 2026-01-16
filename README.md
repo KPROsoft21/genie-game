@@ -1,8 +1,8 @@
 # Genie App
-<img width="590" height="1278" alt="IMG_3399" src="https://github.com/user-attachments/assets/c3e4484b-a640-45e1-acf8-fe524d6a0515" />
-<img width="590" height="1278" alt="IMG_3400" src="https://github.com/user-attachments/assets/f0ea2848-98c9-4113-b920-b6aba4bc0f0a" />
-<img width="590" height="1278" alt="IMG_3401" src="https://github.com/user-attachments/assets/f9d79f19-b37f-4bf7-b5c7-c015a88dcc29" />
-<img width="590" height="1278" alt="IMG_3402" src="https://github.com/user-attachments/assets/c859eba4-4b43-4574-af2d-cfb7285e552d" />
+<img width="59" height="127.8" alt="IMG_3399" src="https://github.com/user-attachments/assets/c3e4484b-a640-45e1-acf8-fe524d6a0515" />
+<img width="59" height="127.8" alt="IMG_3400" src="https://github.com/user-attachments/assets/f0ea2848-98c9-4113-b920-b6aba4bc0f0a" />
+<img width="59" height="127.8" alt="IMG_3401" src="https://github.com/user-attachments/assets/f9d79f19-b37f-4bf7-b5c7-c015a88dcc29" />
+<img width="59" height="127.8" alt="IMG_3402" src="https://github.com/user-attachments/assets/c859eba4-4b43-4574-af2d-cfb7285e552d" />
 
 ## Project info
 
