@@ -2,6 +2,7 @@
 <img width="236" height="511.2" alt="IMG_3399" src="https://github.com/user-attachments/assets/c3e4484b-a640-45e1-acf8-fe524d6a0515" />
 <img width="236" height="511.2" alt="IMG_3401" src="https://github.com/user-attachments/assets/f9d79f19-b37f-4bf7-b5c7-c015a88dcc29" />
 <img width="236" height="511.2" alt="IMG_3402" src="https://github.com/user-attachments/assets/c859eba4-4b43-4574-af2d-cfb7285e552d" />
+
 ## Project info
 
 This is a native cross-platform mobile app created with React
