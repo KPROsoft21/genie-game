@@ -1,0 +1,33 @@
+export default {
+    primary: '#1a0a2e',
+    secondary: '#2d1b4e',
+    accent: '#ffd700',
+    accentLight: '#ffe44d',
+    glow: '#9d4edd',
+    glowLight: '#c77dff',
+    text: '#ffffff',
+    textSecondary: '#b8a9c9',
+    card: 'rgba(45, 27, 78, 0.8)',
+    cardBorder: 'rgba(157, 78, 221, 0.3)',
+    success: '#4ade80',
+    error: '#f87171',
+    gradient: {
+      start: '#0f0520',
+      middle: '#1a0a2e',
+      end: '#2d1b4e',
+    },
+    genie: {
+      skin: '#4fc3f7',
+      skinDark: '#0288d1',
+      skinLight: '#81d4fa',
+      eyes: '#ffd700',
+      turban: '#7b1fa2',
+      turbanGem: '#e91e63',
+      turbanGold: '#ffd700',
+      beard: '#1a237e',
+      earring: '#ffd700',
+      smoke: 'rgba(79, 195, 247, 0.5)',
+      smokeDark: 'rgba(2, 136, 209, 0.4)',
+    },
+  };
+  
